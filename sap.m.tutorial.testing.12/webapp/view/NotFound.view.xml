@@ -1,0 +1,13 @@
+<mvc:View
+	xmlns:mvc="sap.ui.core.mvc"
+	controllerName="sap.ui.demo.bulletinboard.controller.NotFound"
+	displayBlock="true"
+	xmlns="sap.m">
+	<MessagePage
+		id="notfound"
+		title="{i18n>NotFound}"
+		text="{i18n>NotFound.text}"
+		description="{i18n>NotFound.description}"
+		showNavButton="true"
+		navButtonPress="onNavBack"/>
+</mvc:View>

@@ -1,0 +1,76 @@
+{
+  "run": [
+    {
+      "filePath": "/sap.m.tutorial.testing.12/webapp/test/mockServer.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "id": 244901,
+        "runnerId": "webapprunner",
+        "displayName": "Run mockServer.html",
+        "lastRunTimeStamp": 1477361515965
+      }
+    },
+    {
+      "filePath": "/sap.m.tutorial.testing.12/webapp/test/integration/opaTests.qunit.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "workspace": "withoutWorkspace",
+      "urlParameters": null,
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "qunitrunner",
+        "id": 9662708,
+        "displayName": "Run opaTests.qunit.html",
+        "lastRunTimeStamp": 1476930519480
+      }
+    },
+    {
+      "filePath": "/sap.m.tutorial.testing.12/webapp/Component.js",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [
+        {
+          "paramName": "",
+          "paramValue": ""
+        }
+      ],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "id": 977351,
+        "runnerId": "fiorirunner",
+        "displayName": "Run Component.js",
+        "lastRunTimeStamp": 1473928618017
+      }
+    },
+    {
+      "filePath": "/sap.m.tutorial.testing.12/webapp/test/unit/unitTests.qunit.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "workspace": "withoutWorkspace",
+      "urlParameters": null,
+      "backendSystem": [],
+      "_metadata": {
+        "id": 4978739,
+        "runnerId": "qunitrunner",
+        "displayName": "Run unitTests.qunit.html"
+      }
+    }
+  ]
+}
